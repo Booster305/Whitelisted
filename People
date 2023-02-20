@@ -1,0 +1,18 @@
+--- Instructions | When adding a new HWID make a new quote then make sure it's in the quote and a comma above the previous one like you see the pattern with the others ---
+return {
+"2C3DAB52-4F00-4A04-8720-D76A1783F5CA" -- null .Nerm.
+"EE916BB1-E35E-408E-AF62-BF105644F48F", -- null .Chaotic.
+"2E579C38-5DFA-45B4-AA94-390AB6B2DCF8", -- trent
+"cc1b9415-8225-4933-8c9d-3b237ad28db6", -- Lusticoo
+"fdaa8620-e126-405d-a9eb-7c347e9ea3c3", -- Overluvv
+"C5311084-3ED3-46C8-8ABF-820DB047AAEF", -- null .nio.
+"7245942E-5DCB-4FD3-AE4E-9FB843A61C9B", -- Kash Hilton
+"5DD13A92-8E62-4935-90A7-DB149628E17B", -- George
+"D7FFCEBA-240F-4874-845B-CE903E421A30", -- null .j.
+"F8255BE0-D34B-4BA4-9A07-3F449DC573CB", -- null .Dev.
+"07613FEE-0866-437A-A7DE-E016DB939664", -- kasey
+"346BD9EF-5E03-46D1-84B2-57719E806018", -- Claudi
+"3E457905-E05F-488E-A711-6B5D9B54F774", -- issac
+"2a8ca5b2-9944-428f-8321-785e828af9ff" -- anywayz
+
+}
