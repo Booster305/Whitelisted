@@ -1,4 +1,4 @@
---- Instructions | When adding a new HWID make a new quote then make sure it's in the quote and a comma above the previous one like you see the pattern with the others
+--- Instructions | When adding a new HWID make a new quote then make sure it's in the quote and a comma above the previous one like you see the pattern with the others ---
 return {
 "2C3DAB52-4F00-4A04-8720-D76A1783F5CA", -- null .Nerm.
 "EE916BB1-E35E-408E-AF62-BF105644F48F", -- null .Chaotic.
